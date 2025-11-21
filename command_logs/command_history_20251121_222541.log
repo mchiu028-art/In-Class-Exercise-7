@@ -1,0 +1,8 @@
+[2025-11-21 22:25:41] [/workspaces/In-Class-Exercise-7] source .devcontainer/shell.sh
+[2025-11-21 22:27:20] [/workspaces/In-Class-Exercise-7] ps
+[2025-11-21 22:28:34] [/workspaces/In-Class-Exercise-7] sleep 500 &
+[2025-11-21 22:28:47] [/workspaces/In-Class-Exercise-7] ps
+[2025-11-21 22:29:10] [/workspaces/In-Class-Exercise-7] kill 5723
+[2025-11-21 22:29:14] [/workspaces/In-Class-Exercise-7] ps
+[2025-11-21 22:34:31] [/workspaces/In-Class-Exercise-7] yes > /dev/null &
+[2025-11-21 22:34:57] [/workspaces/In-Class-Exercise-7] kill -9 8463
